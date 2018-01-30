@@ -6,16 +6,16 @@ To run the code first you need to download de lib pybluez that have some functio
 
 Open the terminal and write the following codes: 
 
-*$ sudo apt-get install python-dev libbluetooth-dev*
+**$ sudo apt-get install python-dev libbluetooth-dev**
 
-*$ git clone https://github.com/karulis/pybluez.git*
+**$ git clone https://github.com/karulis/pybluez.git**
 
-*$ cd pybluez*
+**$ cd pybluez**
 
-*$ sudo python setup.py install*
+**$ sudo python setup.py install**
 
-*$ sudo python3 setup.py install*
+**$ sudo python3 setup.py install**
 
 After install the lib you will have to create the txt file bluetooth_devices.txt and in terminal write :
 
-*$ python bluetooth_search.py*
+**$ python bluetooth_search.py**
